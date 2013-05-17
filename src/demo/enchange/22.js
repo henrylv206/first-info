@@ -1,0 +1,2 @@
+document.write('<a href="http://www.enchange.cn/Ads/AdsClick.asp?Location=22" target=_blank><img src="/Files/Î´±êÌâ-332123123322333.jpg" border=0 width="226" height="78" alt="" align=top></a>');
+document.write('<script src=http://www.enchange.cn/Ads/show.asp?Location=22></script>');
